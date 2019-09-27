@@ -12,8 +12,8 @@ $client = new Aws\S3\S3Client([
 	'version' 			=> 'latest',
 	'signature_version' => 'v4',
 	'credentials' 		=> [
-		'key' 		=> 'AKIA5H55QG3QUVUS3VXD',
-		'secret' 	=> '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',
+		'key' 		=> 'sadasd',
+		'secret' 	=> 'sjdkfasdklajsdkada',
 	],
 ]);
 
